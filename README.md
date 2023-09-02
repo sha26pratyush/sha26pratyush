@@ -3,10 +3,11 @@
 I'm Pratyush, a computer science enthusiast from India 🇮🇳, currently embarking on my journey in the world of technology. 
 
 #### About Me
-- 📚 I'm a freshman with a thirst for knowledge, currently diving into the basics of computer science, including operating systems, DBMS, networking, distributive systems and more.
+- 📚 I'm a freshman with a thirst for knowledge, currently diving into the basics of computer science, including operating systems, DBMS, networking, distributive systems, and more.
 - 💻 **Ubuntu** is my primary operating system of choice, and I enjoy exploring its ins and outs.
 - 🌱 I'm in the process of learning **Git and GitHub**, taking my first steps into version control and collaborative coding.
-- 👨‍🎓 I'm enrolled in **CS50x**, a computer science course offered by Harvard University, to further solidify my foundations and programming skills in computer science
+- 👨‍🎓 I'm enrolled in **CS50x**, a computer science course offered by Harvard University, to further solidify my foundations and programming skills in computer science.
+- 💻 I have a foundational understanding of **HTML** and **C** programming languages.
 - 💡 I believe in hands-on learning and love to practice what I learn, getting my hands dirty with real-world projects.
 - 🤝 I have a passion for **open-source** and enjoy contributing to projects that make a positive impact on the tech community.
 
