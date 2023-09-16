@@ -23,4 +23,4 @@ Let's code and build amazing things together! 🚀
 ### Get in Touch 📫
 - [Twitter](https://twitter.com/PratyushS_26)
 
-Thank you for stopping by, and happy coding! 
+Thank you for stopping by, and happy coding! 😃
