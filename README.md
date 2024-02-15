@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-I'm Pratyush, a Computer Science enthusiast from India 🇮🇳, currently embarking on my journey in the world of technology. 
+I'm Pratyush, a Computer Science student from India 🇮🇳, currently embarking on my journey in the world of technology. 
 
 ### About Me
 - 📚 I'm a freshman with a thirst for knowledge, currently diving into the basics of computer science, including Operating Systems, DBMS, Networking, Distributive Systems, Algorithms, Data Structures, System Design, and more.
